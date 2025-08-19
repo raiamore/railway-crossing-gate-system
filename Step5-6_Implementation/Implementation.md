@@ -20,4 +20,4 @@
 
 The process is represented visually in the flowchart below:  
 
-![Flowchart](Step5-6_Implementation/railway_flowchart.png)  
+![Flowchart](railway_flowchart.png)
