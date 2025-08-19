@@ -11,12 +11,14 @@ The workflow follows a structured 7-step engineering design process.
 
 Each step of the project has its own folder and documentation:  
 
+
 1. [Step 1 – Problem Analysis](Step1_ProblemAnalysis/ProblemAnalysis.md)  
 2. [Step 2 – Exploring Alternatives](Step2_Alternatives/Alternatives.md)  
-3. [Steps 3 & 4 – Evaluation & Decision](Step3-4_Evaluation/Evaluation.md)  
+3. [Steps 3 & 4 – Evaluation & Decision](Step3-4_Evaluation/EvaluationDecision.md)  
 4. [Steps 5 & 6 – Planning & Implementation](Step5-6_Implementation/Implementation.md)  
    - [Flowchart](Step5-6_Implementation/railway_flowchart.png)  
-5. [Step 7 – Testing & Refinement](Step7_Testing/Testing.md)  
+5. [Step 7 – Testing & Refinement](Step7_Testing/Testing.md)
+
 
 ---
 
